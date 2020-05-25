@@ -1,6 +1,6 @@
-# Pig_game
+# Calculater
 
-I created a Pig_game app. I'm going to use JavaScript, HTML5, CSS3, animations and trasitions.
+I created a Calculator app. I'm going to use JavaScript, HTML5, CSS3, animations and trasitions.
 
 ### [Live Site](https://manpreet-singh10196.github.io/calculator/)
 
